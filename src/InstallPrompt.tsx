@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 
 const S = {
-  ar: { title: 'ثبّت مساعد سوق الوسط', sub: 'أضفه إلى شاشتك للوصول السريع', btn: 'تثبيت', later: 'لاحقاً',
+  ar: { title: 'ثبّت مساعد سوق الوساط', sub: 'أضفه إلى شاشتك للوصول السريع', btn: 'تثبيت', later: 'لاحقاً',
     ios: 'اضغط زر المشاركة ⬆️ ثم اختر «إضافة إلى الشاشة الرئيسية»', safari: 'افتح هذا الرابط في متصفح Safari ثم ثبّت التطبيق' },
   en: { title: 'Install Souq Alwisat Assistant', sub: 'Add it to your home screen for quick access', btn: 'Install', later: 'Later',
     ios: 'Tap the Share button ⬆️ then choose "Add to Home Screen"', safari: 'Open this link in Safari, then install the app' },

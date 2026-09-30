@@ -1,4 +1,4 @@
-# مساعد سوق الوسط | Souq Alwisat Assistant
+# مساعد سوق الوساط | Souq Alwisat Assistant
 
 ## التشغيل محلياً
 npm install
